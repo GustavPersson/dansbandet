@@ -1,0 +1,6 @@
+E:\Programmering\Dansbandet\bin\installer\Debug\Setup.msi
+E:\Programmering\Dansbandet\bin\installer\Debug\Setup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Product.Generated.wixobj
+E:\Programmering\Dansbandet SVN\bin\installer\Debug\Setup.msi
+E:\Programmering\Dansbandet SVN\bin\installer\Debug\Setup.wixpdb

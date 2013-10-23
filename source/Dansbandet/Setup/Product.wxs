@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="29E7E4D6-F93C-49df-BB3B-343D827E9485" Name="Dansbandet" Language="1033" Codepage="1252" Version="0.0.0.1" Manufacturer="Dansbandet" UpgradeCode="0C2A6D1A-DFFD-4983-8B7C-E836ABBEF566">
+    <Package Id="*" InstallerVersion="200" Compressed="yes" SummaryCodepage="1252" />
+
+  </Product>
+</Wix>
